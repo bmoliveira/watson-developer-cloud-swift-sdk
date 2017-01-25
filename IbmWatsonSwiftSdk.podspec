@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IbmWatsonSwiftSdk'
-  s.version          = '0.1.0'
+  s.version          = 'v0.13.1-pod'
   s.summary          = 'A short description of IbmWatsonSwiftSdk.'
 
   s.description      = <<-DESC
